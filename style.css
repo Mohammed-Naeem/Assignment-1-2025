@@ -241,3 +241,6 @@ footer{
     background-color: white;
     padding: 40px;
 }
+footer>div>img {
+    margin: 10px;
+}
