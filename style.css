@@ -64,8 +64,7 @@ nav button {
     align-items: center;
     background-color: #C6E4D6;
     height: 560px;
-    
-    padding: 0 60px;
+    padding: 0 60px 0 60px;
 }
 .flex-content>div>h5{
     color: #0E0E0E50 ;
@@ -207,4 +206,38 @@ table {
 
   /* 5th part */
 
-  
+.round{
+    border-radius: 24px;
+}
+.round-padding{
+    padding: 48px;
+}
+
+/* 6th part */
+ .center {
+    text-align: center;
+    
+ }
+ .align-content{
+    display: flex;
+    justify-content: center;
+ }
+ .padding{
+    padding: 40px;
+ }
+textarea {width: 100%;
+    margin: 0 124px 0 124px;
+    box-sizing: border-box;
+    resize: none;
+    font-size: 20px;
+    padding: 10px;
+    font-family: "Fira Sans", serif;
+     font-weight: 700;
+    color: #0E0E0E30;}
+
+footer{
+
+    text-align: center;
+    background-color: white;
+    padding: 40px;
+}
